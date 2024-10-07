@@ -2,8 +2,11 @@
 /**
  * Plugin Name: GG Instagram
  * Description: A plugin to connect and manage Instagram profiles for each site in a WordPress multisite network.
- * Version: 1.0
- * Author: Your Name
+ * Version: 9.0
+ * Author: Hasan Tareq
+ * Author URI: https://hasantricks.pro
+ * Text Domain: gg-instagram
+ * Plugin URI: https://github.com/hsntareq/instagram-feed
  * License: GPL2
  */
 
